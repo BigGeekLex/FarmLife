@@ -1,0 +1,16 @@
+.idea
+Logs
+Library/BurstCache
+Library/Bee
+Library/Artifacts
+Library/PackageCache
+Library/PackageManager
+Library/ShaderCache
+Library/StateCache
+Assets/TutorialInfo
+obj
+UserSettings
+Temp
+Library
+*.csproj
+.DS_Store
